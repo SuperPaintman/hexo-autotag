@@ -1,7 +1,7 @@
 'use strict';
 /* global hexo */
 /** Requires */
-var autotagTag = require('./lib/autotag.js');
+var autotagTag = require('./lib/autotag.js')(hexo);
 
 /** constants */
 var TAG_NAME = 'autotag';
