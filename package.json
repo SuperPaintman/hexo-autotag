@@ -1,0 +1,29 @@
+
+{
+  "name": "hexo-autotag",
+  "version": "0.0.1",
+  "description": "Autotag tag for Hexo.",
+  "main": "./index.js",
+  "author": {
+    "name": "SuperPaintman",
+    "email": "SuperPaintmanDeveloper@gmail.com",
+    "url": "https://flatdev.ru/"
+  },
+  "scripts": {},
+  "keywords": [
+    "hexo",
+    "tag",
+    "autotag"
+  ],
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperPaintman/hexo-autotag.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
